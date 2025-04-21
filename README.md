@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Darci Alves, sou natural de São José dos Campos - SP. Estou no ultimo semestre de Engenharia de Software (UNOPAR), com cursos de programação e pequenos projetos. Estou cursando Google Data Analytics pela COUSERA. Sou Projetista Mecânico no setor aeronáutico a 23 anos e apaixonado por Tecnologia e Análise de Dados.
+Me chamo Darci Alves, sou natural de São José dos Campos - SP. Estudante do ultimo semestre de Engenharia de Software (UNOPAR), com cursos de programação e pequenos projetos. Estou cursando Google Data Analytics pela COUSERA. Sou Projetista Mecânico no setor aeronáutico a 23 anos e apaixonado por Tecnologia e Análise de Dados.
 
 Atualmente estou trabalhando como Projetista Mecânico voltado para área de suporte ao cliente, onde aplico diariamente as habilidades de adiquiridas em Tecnologia, como engenharia de dados, análise e visualização de dados.
 
