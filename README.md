@@ -1,6 +1,6 @@
 ## Darci Alves 👋
 
-**`Desenvolvedor FullStack`**
+**`Análise e engenharia de Dados`**
 
 Me chamo Darci Alves, sou natural de São José dos Campos - SP. Estudante do ultimo semestre de Engenharia de Software (UNOPAR), com cursos de programação e pequenos projetos. Estou cursando Google Data Analytics pela COUSERA. Sou Projetista Mecânico no setor aeronáutico a 23 anos e apaixonado por Tecnologia e Análise de Dados.
 
