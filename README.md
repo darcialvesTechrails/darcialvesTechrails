@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Darci Alves, tenho 50 anos e sou natural de São José dos Campos - SP. Estou no ultimo semestre de Engenharia de Software (UNOPAR), com cursos de programação e pequenos projetos. Atualmente, estou cursando Google Data Analytics pela COUSERA. Sou Projetista Mecânico no setor aeronautico a 23 anos e apaixonado por Tecnologia e Análise de Dados.
+Me chamo Darci Alves, tenho 50 anos e sou natural de São José dos Campos - SP. Estou no ultimo semestre de Engenharia de Software (UNOPAR), com cursos de programação e pequenos projetos. Atualmente, estou cursando Google Data Analytics pela COUSERA. Sou Projetista Mecânico no setor aeronáutico a 23 anos e apaixonado por Tecnologia e Análise de Dados.
 
 <p align="left">
    <a href="https://github.com/darcialvesTechrails?tab=repositories&sort=stargazers">
