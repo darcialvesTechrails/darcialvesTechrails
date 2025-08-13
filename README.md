@@ -4,15 +4,15 @@
 
 # Olá! Eu sou Darci Pereira Alves
 
-**Engenheiro de Software | Especialista em Projetos Mecânicos | Analista de Dados**
+**Engenheiro de Software | Analista de Dados e Especialista em Projetos Mecânicos de Interiores para aviação em geral**
 
-Sou natural de São José dos Campos – SP, formado em Engenharia de Software e certificado pelo programa profissional **Google Data Analytics – Coursera**. Tenho mais de 25 anos de experiência como Projetista Mecânico especializado em interiores no setor aeronáutico, e sou apaixonado por tecnologia, análise de dados e soluções inteligentes.
+Sou natural de São José dos Campos – SP, formado em Engenharia de Software e certificado profissional **Google Data Analytics – Coursera**. Tenho mais de 25 anos de experiência como Projetista Mecânico especializado em interiores no setor aeronáutico, e sou apaixonado por tecnologia, análise de dados e soluções inteligentes.
 
 ---
 
 ## Experiência Profissional
 
-Atualmente atuo como **Projetista Mecânico** na área de interiores e **suporte ao cliente**, onde aplico diariamente habilidades adquiridas em tecnologia, como:
+Atualmente atuo como **Projetista Mecânico Sr** na área de interiores e **suporte ao cliente** para aviação em geral, onde aplico diariamente habilidades adquiridas em tecnologia, como:
 
 - Engenharia de Dados  
 - Análise e Visualização de Dados  
@@ -25,13 +25,14 @@ Atualmente atuo como **Projetista Mecânico** na área de interiores e **suporte
 
 - **Engenharia de Software** – UNOPAR  
 - **Google Data Analytics** – Coursera  
-- Cursos de programação e projetos práticos como estudos de caso
+- **Cursos de programação (Front-end | Back-end) e projetos práticos.
+- **Tecnico Mecânico** - ETEP
 
 ---
 
 ## Tecnologias & Ferramentas
 
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Git • Python • Power BI • SQL
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Git • Python • R • Power BI • SQL
 
 ---
 
