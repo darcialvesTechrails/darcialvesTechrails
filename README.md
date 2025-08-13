@@ -2,9 +2,63 @@
 
 **`Análise e engenharia de Dados`**
 
-Me chamo Darci Alves, sou natural de São José dos Campos - SP. Estudante do ultimo semestre de Engenharia de Software (UNOPAR), com cursos de programação e pequenos projetos. Estou cursando Google Data Analytics pela COUSERA. Sou Projetista Mecânico no setor aeronáutico a 23 anos e apaixonado por Tecnologia e Análise de Dados.
+# Olá! Eu sou Darci Pereira Alves
 
-Atualmente estou trabalhando como Projetista Mecânico voltado para área de suporte ao cliente, onde aplico diariamente as habilidades de adiquiridas em Tecnologia, como engenharia de dados, análise e visualização de dados.
+**Engenheiro de Software | Especialista em Projetos Mecânicos | Analista de Dados**
+
+Sou natural de São José dos Campos – SP, formado em Engenharia de Software e certificado pelo programa profissional **Google Data Analytics – Coursera**. Tenho mais de 25 anos de experiência como Projetista Mecânico especializado em interiores no setor aeronáutico, e sou apaixonado por tecnologia, análise de dados e soluções inteligentes.
+
+---
+
+## Experiência Profissional
+
+Atualmente atuo como **Projetista Mecânico** na área de interiores e **suporte ao cliente**, onde aplico diariamente habilidades adquiridas em tecnologia, como:
+
+- Engenharia de Dados  
+- Análise e Visualização de Dados  
+- Automação de processos  
+- Soluções orientadas à eficiência e tomada de decisão
+
+---
+
+## Formação & Estudos
+
+- **Engenharia de Software** – UNOPAR  
+- **Google Data Analytics** – Coursera  
+- Cursos de programação e projetos práticos como estudos de caso
+
+---
+
+## Tecnologias & Ferramentas
+
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Git • Python • Power BI • SQL
+
+---
+
+## Projetos & Portfólio
+
+Aqui no GitHub você encontra meus projetos de estudo e aplicações práticas em tecnologia e dados. Estou sempre buscando aprender, evoluir e colaborar.
+
+🔗 [Veja meus repositórios](https://github.com/darcialvesTechrails?tab=repositories)
+
+---
+
+## Vamos conversar?
+
+Estou disponível para **freelas, parcerias e projetos sob demanda** nas áreas de:
+
+- Desenvolvimento Web  
+- Engenharia e Análise de Dados  
+- Visualização de Dados e Dashboards  
+- Automação e otimização de processos
+
+**Contato:** [LinkedIn](https://www.linkedin.com/in/seu-perfil) • [Email](mailto:seuemail@exemplo.com)
+
+---
+
+> “Tecnologia é a ponte entre ideias e soluções. E eu estou aqui para construir essa ponte com você.”
+
+---
 
 <p align="left">
    <a href="https://github.com/darcialvesTechrails?tab=repositories&sort=stargazers">
